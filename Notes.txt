@@ -1,0 +1,110 @@
+Norm of drhodt: 1.0179352760314941
+Norm of div_x_m: 1.5586090087890625
+Norm of m_out: 8.914332389831543
+Norm of rho_out: 2.129133462905884
+Norm of m_bdry: 4.454923629760742
+Norm of rho at t=0: 1.360235333442688
+Norm of rho at t=1: 1.9956566095352173
+Norm of true rho at t=0: 379.48992919921875
+Norm of true rho at t=1: 400.5223693847656
+rho net grad norm: 997.75, m net grad norm: 40.11
+rho net weight norm: 183.67, m net weight norm: 182.67
+Loss: 19.5300, L_cost:-0.2892, L_cost_thry:0.7500, L_cost_gap:1.0392, L_IC:0.0190,                     L_TC:0.0201, L_conserv:0.0006
+
+
+Norm of drhodt: 0.9972805380821228
+Norm of div_x_m: 1.5494335889816284
+Norm of m_out: 9.024260520935059
+Norm of rho_out: 1.5844364166259766
+Norm of m_bdry: 4.5064167976379395
+Norm of rho at t=0: 0.6068761944770813
+Norm of rho at t=1: 0.6318389177322388
+Norm of true rho at t=0: 392.0656433105469
+Norm of true rho at t=1: 416.1157531738281
+rho net grad norm: 6131.48, m net grad norm: 148.12
+rho net weight norm: 183.67, m net weight norm: 182.67
+Loss: 20.0727, L_cost:-0.4418, L_cost_thry:0.7500, L_cost_gap:1.1918, L_IC:0.0196,                     L_TC:0.0208, L_conserv:0.0006
+
+
+Norm of drhodt: 0.9554744362831116
+Norm of div_x_m: 1.531346321105957
+Norm of m_out: 9.240742683410645
+Norm of rho_out: 0.5138529539108276
+Norm of m_bdry: 4.610494136810303
+Norm of rho at t=0: 1469026304.0
+Norm of rho at t=1: 1880917760.0
+Norm of true rho at t=0: 390.63604736328125
+Norm of true rho at t=1: 390.132080078125
+rho net grad norm: 14263838048256.00, m net grad norm: 73.44
+rho net weight norm: 142820.16, m net weight norm: 182.67
+Loss: 19.8658, L_cost:0.0528, L_cost_thry:0.7500, L_cost_gap:0.6972, L_IC:0.0195,                     L_TC:0.0195, L_conserv:0.0006
+
+
+Norm of drhodt: 414479264.0
+Norm of div_x_m: 1.5395879745483398
+Norm of m_out: 9.136865615844727
+Norm of rho_out: 1676623488.0
+Norm of m_bdry: 4.56049919128418
+Norm of rho at t=0: 18183.380859375
+Norm of rho at t=1: 33226.04296875
+Norm of true rho at t=0: 387.57012939453125
+Norm of true rho at t=1: 389.2198791503906
+rho net grad norm: 345526159540224.00, m net grad norm: 29.57
+rho net weight norm: 3505030.50, m net weight norm: 182.67
+Loss: 94098400.0000, L_cost:0.0000, L_cost_thry:0.7500, L_cost_gap:0.7500, L_IC:73438.9766,                     L_TC:94033.8750, L_conserv:20723.9609
+
+
+Norm of drhodt: 16527.669921875
+Norm of div_x_m: 1.5359970331192017
+Norm of m_out: 9.0441255569458
+Norm of rho_out: 26117.546875
+Norm of m_bdry: 4.5153937339782715
+Norm of rho at t=0: 10343.0
+Norm of rho at t=1: 10831.4130859375
+Norm of true rho at t=0: 397.00860595703125
+Norm of true rho at t=1: 400.1954345703125
+rho net grad norm: 9870193.00, m net grad norm: 28.70
+rho net weight norm: 3505030.25, m net weight norm: 182.67
+Loss: 1693.4524, L_cost:0.0000, L_cost_thry:0.7500, L_cost_gap:0.7500, L_IC:0.9039,                     L_TC:1.6561, L_conserv:0.8269
+
+
+Norm of drhodt: 4201.98974609375
+Norm of div_x_m: 1.5296001434326172
+Norm of m_out: 8.958967208862305
+Norm of rho_out: 10411.4072265625
+Norm of m_bdry: 4.471004486083984
+Norm of rho at t=0: 51784.72265625
+Norm of rho at t=1: 63417.66015625
+Norm of true rho at t=0: 393.7055358886719
+Norm of true rho at t=1: 405.7740478515625
+rho net grad norm: 11332590.00, m net grad norm: 25.87
+rho net weight norm: 3505030.75, m net weight norm: 182.67
+Loss: 628.3778, L_cost:0.0001, L_cost_thry:0.7500, L_cost_gap:0.7499, L_IC:0.5101,                     L_TC:0.5361, L_conserv:0.2106
+
+
+Norm of drhodt: 21393.62109375
+Norm of div_x_m: 1.51608407497406
+Norm of m_out: 8.869406700134277
+Norm of rho_out: 58302.1171875
+Norm of m_bdry: 4.427335262298584
+Norm of rho at t=0: 40775.109375
+Norm of rho at t=1: 38607.10546875
+Norm of true rho at t=0: 407.69775390625
+Norm of true rho at t=1: 375.692138671875
+rho net grad norm: 987521344.00, m net grad norm: 27.59
+rho net weight norm: 3505033.50, m net weight norm: 182.67
+Loss: 3402.9971, L_cost:-0.0000, L_cost_thry:0.7500, L_cost_gap:0.7500, L_IC:2.5828,                     L_TC:3.1530, L_conserv:1.0702
+
+
+Norm of drhodt: 6575.154296875
+Norm of div_x_m: 1.5234565734863281
+Norm of m_out: 8.778820991516113
+Norm of rho_out: 39869.12109375
+Norm of m_bdry: 4.38314962387085
+Norm of rho at t=0: 40334.828125
+Norm of rho at t=1: 40205.57421875
+Norm of true rho at t=0: 394.7523498535156
+Norm of true rho at t=1: 390.4272155761719
+rho net grad norm: 2926913.75, m net grad norm: 26.22
+rho net weight norm: 3505033.00, m net weight norm: 182.67
+Loss: 2143.0547, L_cost:0.0000, L_cost_thry:0.7500, L_cost_gap:0.7500, L_IC:2.0327,                     L_TC:1.9242, L_conserv:0.3292

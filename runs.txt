@@ -1,0 +1,3 @@
+python main.py --exp_name UPS_big_rf=1_rx=1_Nx=10000 --num_iter 400000 --run_choice UPS_Neumann --resample_step_f 1 --resample_step_xs 1 
+--resample_step_x 1 --step_size 2000 --lr_decay_gamma 0.95 --lr 1e-4 --log_step 1000 --grid_xs true --N_int 10000 --act_u softplus 
+--hidden_dim 128 --num_layers 3 --hidden_list_u 64,64,64 --gpu 1

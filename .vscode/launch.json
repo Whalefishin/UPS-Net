@@ -1,0 +1,41 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            // "args": ["--overwrite_folder", "true", "--model_path", 
+            //     "snapshot/S_net_N_f=32_fastResample_bigPNet_complete/models/DRM_300000.pkl", "--run_choice",
+            //     "visualize_SNet", "--hidden_dim", "128", "--num_layers", "3"
+            // ],
+            // "args": ["--overwrite_folder", "true", "--run_choice", "poisson_solution_map_Neumann", "--N_int", 
+            //     "1024", "--N_bdry", "1024", "--N_s", "1024", "--M", "10", "--model_path",
+            //     "snapshot/S_net_N_f=32_fastResample_bigPNet_complete/models/DRM_300000.pkl", "--start_iter", "300000",
+            //     "--hidden_dim", "128", "--num_layers", "3"
+            // ],
+            // "args": ["--overwrite_folder", "true", "--run_choice", "poisson_simple_Neumann", "--N_int", 
+            //     "1024", "--N_bdry", "1024", "--N_s", "1024", "--M", "10", "--batch_f", "false", "--N_f", "2",
+            //     "--same_x", "false", "--resample_step_f", "1000000000000", "--grid_xs", "true", "--num_grid_points_xs", "10",
+            //     "--act_u", "softplus", "--tau_sp", "0"
+            // ],
+            // "args": ["--overwrite_folder", "true", "--run_choice", "UPS_Neumann", "--N_int", 
+            //     "1024", "--N_bdry", "1024", "--N_s", "1024", "--M", "10", "--batch_f", "true", "--N_f", "2",
+            //     "--same_x", "false", "--resample_step_f", "100", "--xs_sampling", "unif_grid", "--num_grid_points_xs", "10",
+            //     "--same_batch_xs", "true"
+            // ],
+            "args": ["--overwrite_folder", "true", "--run_choice", "MFP_naive", "--d", "3", "--N_int",
+                "2000", "--N_bdry", "500", "--MFP_sampling", "nonsqr", "--MFP_ICTC", "gaussian", "--optimizer", "sgd",
+                "--hidden_list_u", "128,128,128,128", "--debug", "--lr", "1e-4", "--resample_step_x", "5",
+                "--lbd_1", "500", "--lbd_2", "1"
+            ],
+            // "args": ["--overwrite_folder", "true", "--run_choice", "MFP_visualization", "--rho_path",
+            //      "snapshot/MFP_naive_nonsqr_N_int=100_N_bdry=50_LR=1e-3_decay=0.99/models/rho_200000.pkl", 
+            //     "--m_path", "snapshot/MFP_naive_nonsqr_N_int=100_N_bdry=50_LR=1e-3_decay=0.99/models/m_200000.pkl" 
+            // ],
+            "cwd": "${fileDirname}"
+        }
+    ]
+}
