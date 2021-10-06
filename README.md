@@ -7,6 +7,19 @@ The UPS net is a deep learning architecture for approximating solutions for the 
 3. A naive least square approach to solve variational mean-field games (MFP).
 
 
+
+## Example Results:
+
+
+### Learned solution map for the 2D Poisson equation
+
+<img src="/results/SolutionMap/plots/u_exact_0_UPS_big_r_f=10_r_x=5_long.png">
+
+
+### Optimal transport between two Gaussians
+
+
+
 ## Training:
 <!-- 
 Some general notes:
