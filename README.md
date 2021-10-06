@@ -14,10 +14,15 @@ The UPS net is a deep learning architecture for approximating solutions for the 
 ### Learned solution map for the 2D Poisson equation
 
 
-<p float="left">
+<!-- <p float="left">
   <img src="/results/SolutionMap/plots/u_exact_0_UPS_big_r_f=10_r_x=5_long.png" width="400" />
   <img src="/results/SolutionMap/plots/u_exact_0_UPS_big_r_f=10_r_x=5_long.png" width="400" /> 
   <img src="/results/SolutionMap/plots/u_exact_0_UPS_big_r_f=10_r_x=5_long.png" width="400" />
+</p> -->
+
+<p float="left">
+  <img src="/results/SolutionMap/plots/u_exact_0_UPS_big_r_f=10_r_x=5_long.png" />
+  <img src="/results/SolutionMap/plots/u_exact_0_UPS_big_r_f=10_r_x=5_long.png" /> 
 </p>
 
 ### Optimal transport between two Gaussians
