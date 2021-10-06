@@ -24,11 +24,11 @@ The UPS net is a deep learning architecture for approximating solutions for the 
 <br/><br/>
 <img src="/results/SolutionMap/ups_2.PNG"/> 
 <br/><br/>
-<img src="/results/Gaussian2D/ups_3.PNG"/> 
+<img src="/results/SolutionMap/ups_3.PNG"/> 
 
 ### Optimal transport between two Gaussians
 
-<img src="/results/SolutionMap/gaussian_2d.gif"/> 
+<img src="/results/Gaussian2D/gaussian_2d.gif"/> 
 
 ## Training:
 <!-- 
